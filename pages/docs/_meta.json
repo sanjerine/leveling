@@ -1,8 +1,62 @@
 {
+  "-": {
+    "type": "separator",
+    "title": "Foundations"
+  },
   "what-is-leveling": {
     "title": "What is Leveling?"
   },
-  "musclegrowth": {
+  "goals": {
+    "title": "Setting Goals"
+  },
+  "moderation": {
+    "title": "A Note on Moderation"
+  },
+  "growth": {
     "title": "Introduction to Muscle Growth"
+  },
+  "--": {
+    "type": "separator",
+    "title": "Food & Lifestyle"
+  },
+  "nutrition": {
+    "title": "Nutrition"
+  },
+  "diet": {
+    "title": "Food Intake Strategies"
+  },  
+  "lifestyle": {
+    "title": "Lifestyle Factors"
+  },
+  "---": {
+    "type": "separator",
+    "title": "Training"
+  },
+  "training": {
+    "title": "Resistance Training Basics"
+  },
+  "frequency": {
+    "title": "Frequency and Recovery"
+  },
+  "advanced": {
+    "title": "'Advanced' Training Principles"
+  },
+  "----": {
+    "type": "separator",
+    "title": "Progress"
+  },
+  "tracking": {
+    "title": "Tracking Progress"
+  },
+  "-----": {
+    "type": "separator",
+    "title": "More"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "about": {
+    "title": "About Leveling",
+    "href": "http://localhost:3000/about"
   }
 }

@@ -1,19 +1,16 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import styled, { createGlobalStyle } from 'styled-components'
 
 const GlobalStyles = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
 
-  body, html {
+  body {
     margin: 0;
     padding: 0;
-    font-family: 'Inter', sans-serif;
   }
   header {
     display: none;
   }
 `;
-
 const LandingPage = () => {
   return (
     <>
@@ -28,6 +25,7 @@ const LandingPage = () => {
             background: 'linear-gradient(119deg, rgba(10,8,20,1) 0%, rgba(39,35,62,1) 50%, rgba(137,138,207,1) 100%)',
             justifyContent: 'center',
             alignItems: 'center',
+            fontFamily: 'sans-serif',
           }}>
             <div style= {{
               display:'flex', 

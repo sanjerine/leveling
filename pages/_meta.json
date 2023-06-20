@@ -1,7 +1,8 @@
 {
   "docs": {
     "title": "Documentation",
-    "type": "page"
+    "type": "page",
+    "href": "http://localhost:3000/docs/what-is-leveling"
   },
   "about": {
     "title": "About",
