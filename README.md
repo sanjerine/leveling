@@ -1,12 +1,10 @@
-# IN PROGRESS!
-
-Hosted ![here](https://leveling-zeta.vercel.app).
-
 # Leveling: Hypertrophy Training Guide 🏋️‍♂️
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nextra](https://img.shields.io/badge/Nextra-black?style=for-the-badge&logo=nextra&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 > 'The documentation for working out.'
+
+Hosted [here](https://leveling-zeta.vercel.app).
 
 Leveling is a website designed to impart crucial, ground-up information about hypertrophy training, helping users achieve their muscle-building goals. Developed using Nextra and Next.js, this website offers a modern and responsive design, optimized for ease of use and effective information delivery.
 
@@ -29,6 +27,7 @@ _... and more! Check it out._
 - [ ] Food & Lifestyle
 - [ ] Training
 - [ ] Progress & More
+- [ ] Landing page
 
 ## Getting Started 🚀
 
@@ -68,10 +67,6 @@ npm run dev
 ```
 
 Visit `http://localhost:3000` in your browser to see the app running.
-
-## Contributing 🤝
-
-We welcome contributions to Leveling! Whether it's reporting bugs, adding new features, fixing issues, or improving documentation, your contributions are greatly appreciated. Please check out our [CONTRIBUTING.md](link-to-contributing-md-if-you-have-one) for guidelines.
 
 ## Acknowledgments 👏
 
