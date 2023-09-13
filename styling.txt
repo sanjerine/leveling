@@ -1,0 +1,15 @@
+<Callout emoji="📋">
+  PAGE SUMMARY
+</Callout>
+
+<Callout type="info" emoji="ℹ️">
+KEY INFO
+</Callout>
+
+<Callout type="warning" emoji="💡">
+EXAMPLE
+</Callout>
+
+<Callout type="error" emoji="️🚫">
+WHAT NOT TO DO
+</Callout>

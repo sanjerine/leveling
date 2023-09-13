@@ -2,16 +2,12 @@
   "docs": {
     "title": "Documentation",
     "type": "page",
-    "href": "http://localhost:3000/docs/what-is-leveling"
+    "href": "http://leveling-zeta.vercel.app/docs/what-is-leveling"
   },
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
+  "spreadsheet": {
+    "title": "Spreadsheet",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://docs.google.com/spreadsheets/d/1HkuzMWLtFP946EATfCCDMDAEYJrvNt7Ex4UQagYOAg0/edit?usp=sharing",
     "newWindow": true
   }
 }

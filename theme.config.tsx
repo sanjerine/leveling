@@ -3,15 +3,9 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>Leveling</span>,
-  project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
-  },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/sanjerine/leveling',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Made with Nextra. 2023',
   },
 }
 

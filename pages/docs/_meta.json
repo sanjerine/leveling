@@ -13,7 +13,7 @@
     "title": "A Note on Moderation"
   },
   "growth": {
-    "title": "Introduction to Muscle Growth"
+    "title": "Muscles and Appearance"
   },
   "--": {
     "type": "separator",
@@ -34,9 +34,6 @@
   },
   "training": {
     "title": "Resistance Training Basics"
-  },
-  "frequency": {
-    "title": "Frequency and Recovery"
   },
   "advanced": {
     "title": "'Advanced' Training Principles"
